@@ -171,6 +171,7 @@ command-vehicleClearUsage: "&cUsage /vehicleClear <radius> <optional: Remove not
 command-vehicleClear: "&e%count% vehicles removed!"
 command-mustBeRiding: "&cYou must be riding a vehicle to use this command."
 command-vehicleRepaired: "&eThe vehicle you are riding was repaired."
+world"
 vehicleHealthEnabled: true
 #When a player dismounts the vehicle he will keep the vehicle speed if this is activated
 keepVehicleMomentum: true
