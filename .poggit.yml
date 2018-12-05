@@ -2,5 +2,4 @@
 branches:
 - master
 projects: [testvehicles]
-Level 0: yaml_parse(): end of stream reached without finding document 0 in /poggit/src/poggit/ci/builder/ProjectBuilder.php#541
 ...
