@@ -170,8 +170,7 @@ command-getBroom: "&eYou got a new %type%"
 command-vehicleClearUsage: "&cUsage /vehicleClear <radius> <optional: Remove not owned (true)>"
 command-vehicleClear: "&e%count% vehicles removed!"
 command-mustBeRiding: "&cYou must be riding a vehicle to use this command."
-command-vehicleRepaired: "&eThe vehicle you are riding was repaired."
-world"
+command-vehicleRepaired: "&eThe vehicle you are riding was repaired.
 vehicleHealthEnabled: true
 #When a player dismounts the vehicle he will keep the vehicle speed if this is activated
 keepVehicleMomentum: true
